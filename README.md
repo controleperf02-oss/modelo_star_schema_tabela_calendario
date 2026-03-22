@@ -20,7 +20,8 @@ Criar as tabelas dimensão e fato do nosso modelo baseado em star schema. O proc
 * **D_Calendário**: Tabela de tempo criada via DAX.
 * **F_Vendas**: Tabela fato com os registros de transações e chaves para as dimensões.
 
-* **Modelo Estrela**: DOCS/modelo_estrela_power_bi.png
+* ## 🖼️ Visualização do Modelo
+* 📊 [Clique aqui para visualizar o Modelo Estrela](DOCS/modelo_estrela_power_bi.png)
 ---
 
 ## 🛠️ Etapas do Processo de Construção
